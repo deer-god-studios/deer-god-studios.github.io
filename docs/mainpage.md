@@ -2,9 +2,7 @@
 
 Welcome to the @ref dggt "DGGT Library": The Deer God Game Tools Library.<br>
 <br>
-@htmlonly
 <a href="https://github.com/deer-god-studios/dggt">See the code on GitHub</a>
-@endhtmlonly
 <br>
 This library is split into several modules and submodules:<br>
 - @ref math <br>
