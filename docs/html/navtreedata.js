@@ -23,6 +23,7 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "dggt", "index.html", [
+    [ "donate", "de/dd4/don.html", null ],
     [ "README", "de/d6b/README.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
@@ -58,7 +59,7 @@ var NAVTREEINDEX =
 "d5/d13/structdggt_1_1table__pair.html",
 "db/da0/group__lin.html#ga20b5a93f1fa14a5e7ba29b1e09decf2a",
 "dd/d2b/structdggt_1_1allocator_3_01alloc__t_1_1STORE_00_01BLOCKSIZE_01_4.html",
-"functions_o.html"
+"functions_n.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
