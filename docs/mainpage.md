@@ -2,6 +2,10 @@
 
 Welcome to the @ref dggt "DGGT Library": The Deer God Game Tools Library.<br>
 <br>
+@htmlonly
+<a href="https://github.com/deer-god-studios/dggt">See the code on GitHub</a>
+@endhtmlonly
+<br>
 This library is split into several modules and submodules:<br>
 - @ref math <br>
 Contains useful math functions and classes.
@@ -28,7 +32,4 @@ Contains an infrastructure used for debugging game projects.
 	- @ref log <br>
 	Contains a system for logging and reporting errors and warnings. 
 
-@htmlonly
-<a href="https://github.com/deer-god-studios/dggt">See the code on GitHub</a>
-@endhtmlonly
 
