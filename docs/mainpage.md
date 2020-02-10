@@ -28,5 +28,5 @@ Contains an infrastructure used for debugging game projects.
 	- @ref log <br>
 	Contains a system for logging and reporting errors and warnings. 
 
-<a href=https://github.com/deer-god-studios/dggt>See the code on GitHub</a>
+<a href="https://github.com/deer-god-studios/dggt">See the code on GitHub</a>
 
